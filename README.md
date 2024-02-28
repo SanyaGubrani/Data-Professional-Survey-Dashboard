@@ -1,11 +1,11 @@
 # Data Professional Survey Dashboard
 
 ## Objective
-The Data Professional Survey Dashboard aims to analyze trends in survey responses from data professionals, focusing on metrics like average salary, job satisfaction, industry trends, and the most commonly used tools among data professionals. By extracting insights from the survey data, the objective is to understand the landscape of the data profession and identify key trends and patterns.
+By extracting insights from the survey data, the objective of understanding the landscape of the data profession and identifying key trends and patterns has been achieved. The analysis provides valuable insights into the demographics, salary trends, job satisfaction levels, and industry preferences of data professionals. 
 
 
 ## Dataset
-The dataset used for this analysis is sourced from Kaggle, comprising responses from data professionals regarding various aspects of their roles, including salary, job satisfaction, industry, and tools usage. 
+The dataset used for this analysis is sourced from Kaggle [Data Professional Survey dataset](https://www.kaggle.com/datasets/anooshakumar/dataset), comprising responses from data professionals regarding various aspects of their roles, including salary, job satisfaction, industry, and tools usage. 
 
 
 ## Steps Undertaken
@@ -60,4 +60,4 @@ To access the Data Professional Survey Dashboard:
 
 
 ## Conclusion
-By extracting insights from the survey data, the objective of understanding the landscape of the data profession and identifying key trends and patterns has been achieved. The analysis provides valuable insights into the demographics, salary trends, job satisfaction levels, and industry preferences of data professionals. These findings offer organizations and professionals alike the opportunity to make informed decisions, develop targeted strategies, and adapt to the evolving landscape of the data profession effectively.
+In conclusion, the Data Professional Survey Dashboard offers valuable insights into the experiences and perspectives of data professionals. By analyzing survey responses, this project explores various aspects such as salary trends, job satisfaction levels, industry dynamics, and the most commonly used tools among professionals in the field. These findings help paint a clearer picture of the data profession's landscape, contributing to a better understanding of the challenges, opportunities, and patterns that shape this growing and evolving field.
