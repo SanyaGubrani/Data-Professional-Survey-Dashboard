@@ -1,4 +1,5 @@
 # Data Professional Survey Dashboard
+![2024-02-25 (4)](https://github.com/SanyaGubrani/Data-Professional-Survey-Dashboard/assets/127206660/ed2d08c5-d4ed-4482-b2f3-e55fa26d9e27)
 
 ## Objective
 By extracting insights from the survey data, the objective of understanding the landscape of the data profession and identifying key trends and patterns has been achieved. The analysis provides valuable insights into the demographics, salary trends, job satisfaction levels, and industry preferences of data professionals. 
@@ -56,7 +57,7 @@ To access the Data Professional Survey Dashboard:
 
 
 ## Dashboard
-![2024-02-25 (4)](https://github.com/SanyaGubrani/Data-Professional-Survey-Dashboard/assets/127206660/ed2d08c5-d4ed-4482-b2f3-e55fa26d9e27)
+![2024-02-25 (1)](https://github.com/SanyaGubrani/Data-Professional-Survey-Dashboard/assets/127206660/cf80b0cd-d23c-40d7-805f-2a89686316d6)
 
 
 ## Conclusion
