@@ -11,24 +11,25 @@ The dataset used for this analysis is sourced from Kaggle, comprising responses 
 ## Steps Undertaken
 
 1. **Setting Objectives:**
-  - Clarified the scope and objectives of the dashboard to analyze survey responses from data professionals.
+   - Clarified the scope and objectives of the dashboard to analyze survey responses from data professionals.
   
 2. **Data Collection and Exploration:**
-  - Obtained the survey dataset from Kaggle, encompassing responses related to salary, job satisfaction, industry, and tool usage.
-  - Conducted exploratory data analysis (EDA) to understand the distribution of responses and uncover insights into trends and patterns.
+   - Obtained the survey dataset from Kaggle, encompassing responses related to salary, job satisfaction, industry, and tool usage.
+   - Conducted exploratory data analysis (EDA) to understand the distribution of responses and uncover insights into trends and patterns.
 
 3. **Data Cleaning:**
-  - Imputing missing values using mean, median, mode, and correlation techniques.
-  - Handling outliers by either removing them or applying appropriate transformations.
-  - Deleting null values.
-  - Changing formats as necessary.
-  - Encoding categorical variables.
+   - Imputing missing values using mean, median, mode, and correlation techniques.
+   - Handling outliers by either removing them or applying appropriate transformations.
+   - Deleting null values.
+   - Changing formats as necessary.
+   - Encoding categorical variables.
   
 4. **Metric Development:**
-  - Utilized Power BI Desktop and Data Analysis Expressions (DAX) to create key performance indicators (KPIs) such as average salary, job satisfaction scores, etc.
+   - Utilized Power BI Desktop and Data Analysis Expressions (DAX) to create key performance indicators (KPIs) such as average salary, job satisfaction scores, etc.
 
 5. **Dashboard Creation:**
-  - Developed an interactive dashboard using PowerBI to present insights into survey responses. The dashboard includes visualizations, filters, and slicers for enhanced exploration and understanding.
+   - Developed an interactive dashboard using PowerBI to present insights into survey responses. The dashboard includes visualizations, filters, and slicers for enhanced exploration and understanding.
+
 
 
 ## Installation/Usage
